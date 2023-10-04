@@ -1,0 +1,100 @@
+/* CarCard.css */
+.car-card {
+    /* Define styles for your car card, including dimensions, positioning, etc. */
+    width: 28%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 19px;
+    /* padding-left:12px; */
+    /* padding-right: 19px; */
+    padding-top: 10px;
+    background-color: #F1F4FB;
+    color:#3F3F58;
+  }
+  img{
+    width: 98%;
+    /* height:auto;
+    margin: 0 auto; */
+
+    border-radius: 10px;
+  }
+  
+  svg{
+    margin-top: 5px;
+    color:#4899EC;
+    /* font-size:18px; */
+  }
+
+  .p-comp{
+    margin: 9px;
+    margin-top:0;
+  }
+  .icon-text{
+    display:flex;
+    flex-direction:row;
+    align-items:flex-start;
+  }
+
+  .align-bottom {
+    vertical-align: bottom;
+  }
+
+  .year{
+    border:3px dashed #4899EC;
+    border-width: 1px;
+    border-radius: 20px;
+    width:15%;
+    padding: 3px;
+    padding-left: 20px;
+    /* padding-right: 0px; */
+    padding-top: 2px;
+    font-weight:600;
+    /* display: flex; */
+  }
+
+  .heading{
+    display: flex;
+    font-display: row;
+    justify-content: space-between;
+  }
+
+  hr {
+    border: none; /* Remove the default border */
+    height: 1px; /* Set the height of the line */
+    background-color: #d2caca; /* Set the line color (replace with your preferred color) */
+    margin: 20px 0; /* Add margin to space the line from the section content */
+  }
+
+  .btn-rent{
+    padding: 10px;
+    color:white;
+    background-color: #4899EC;
+    border: none;
+    border-radius:18px;
+    font-size: 15px;
+    margin-left: 10px;
+    width:100px;
+    cursor:pointer;
+  }
+  .btn-rent:hover{
+    opacity:0.8
+  }
+
+  .swe{
+    background-color: #DAEAFA;
+    color:#8DC2F3;
+    padding: 12px;
+    border-radius: 12px;
+    cursor:pointer;
+  }
+
+  .bottom-card{
+    display: flex;
+    font-display: row;
+    justify-content: space-between;
+    align-items:center;
+    height: 40px;
+    padding: 0;
+  }

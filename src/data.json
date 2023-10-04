@@ -1,0 +1,544 @@
+[
+    {
+      "id":1,
+      "carname": "Toyota RAV4",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "28.5 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id":2,
+      "carname": "Honda Civic",
+      "year": 2021,
+      "people_fitted": 4,
+      "milage": "34.2 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id":3,
+      "carname": "Ford Escape Hybrid",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "42.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Hybrid"
+    },
+    {
+      "id":4,
+      "carname": "Chevrolet Silverado",
+      "year": 2022,
+      "people_fitted": 6,
+      "milage": "20.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Diesel"
+    },
+    {
+      "id":5,
+      "carname": "Tesla Model 3",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "Electric",
+      "type": "Automatic",
+      "fuel_type": "Electric"
+    },
+    {
+      "id":6,
+      "carname": "BMW X5",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "26.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id":7,
+      "carname": "Cadillac Escalade",
+      "year": 2022,
+      "people_fitted": 7,
+      "milage": "18.9 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Hybrid"
+    },
+    {
+      "id": 8,
+      "carname": "Nissan Altima",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "30.7 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 9,
+      "carname": "Ford Explorer",
+      "year": 2023,
+      "people_fitted": 7,
+      "milage": "24.5 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 10,
+      "carname": "Jeep Wrangler",
+      "year": 2022,
+      "people_fitted": 4,
+      "milage": "20.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 11,
+      "carname": "Hyundai Sonata",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "33.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 12,
+      "carname": "Kia Sorento",
+      "year": 2022,
+      "people_fitted": 7,
+      "milage": "27.6 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 13,
+      "carname": "Mazda CX-5",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "31.4 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 14,
+      "carname": "Subaru Outback",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "29.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 15,
+      "carname": "Lexus RX 350",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "28.9 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 16,
+      "carname": "Volkswagen Tiguan",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "30.2 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 17,
+      "carname": "Audi Q5",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "26.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 18,
+      "carname": "Mercedes-Benz GLC",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "27.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 19,
+      "carname": "BMW 3 Series",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "25.6 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 20,
+      "carname": "Toyota Camry",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "27.7 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 21,
+      "carname": "Honda Accord",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "30.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 22,
+      "carname": "Ford Mustang",
+      "year": 2023,
+      "people_fitted": 4,
+      "milage": "22.4 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 23,
+      "carname": "Chevrolet Malibu",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "29.7 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 24,
+      "carname": "Jeep Grand Cherokee",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "23.6 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 25,
+      "carname": "Hyundai Tucson",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "28.9 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 26,
+      "carname": "Kia Sportage",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "27.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 27,
+      "carname": "Mazda3",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "30.5 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 28,
+      "carname": "Subaru Crosstrek",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "28.4 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 29,
+      "carname": "Lexus ES 350",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "29.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 30,
+      "carname": "Volkswagen Passat",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "25.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 31,
+      "carname": "Audi A4",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "26.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 32,
+      "carname": "Mercedes-Benz C-Class",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "27.0 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 33,
+      "carname": "BMW 5 Series",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "25.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 34,
+      "carname": "Toyota Corolla",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "29.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 35,
+      "carname": "Honda CR-V",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "31.7 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 36,
+      "carname": "Ford F-150",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "22.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 37,
+      "carname": "Chevrolet Silverado",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "21.4 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 38,
+      "carname": "GMC Sierra",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "21.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 39,
+      "carname": "Ram 1500",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "19.7 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 40,
+      "carname": "Toyota Tacoma",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "20.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 41,
+      "carname": "Jeep Renegade",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "21.5 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 42,
+      "carname": "Hyundai Kona",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "26.4 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 43,
+      "carname": "Kia Soul",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "27.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 44,
+      "carname": "Mazda MX-5 Miata",
+      "year": 2022,
+      "people_fitted": 2,
+      "milage": "17.9 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 45,
+      "carname": "Subaru Impreza",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "25.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 46,
+      "carname": "Lexus IS 300",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "27.6 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 47,
+      "carname": "Volkswagen Jetta",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "28.5 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 48,
+      "carname": "Audi A3",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "25.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 49,
+      "carname": "Mercedes-Benz A-Class",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "26.2 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 50,
+      "carname": "BMW 2 Series",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "24.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 51,
+      "carname": "Toyota Avalon",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "28.7 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 52,
+      "carname": "Honda Fit",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "22.6 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 53,
+      "carname": "Ford EcoSport",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "23.9 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 54,
+      "carname": "Tesla Model S",
+      "year": 2023,
+      "people_fitted": 5,
+      "milage": "N/A (Electric)",
+      "type": "Automatic",
+      "fuel_type": "Electric"
+    },
+    {
+      "id": 55,
+      "carname": "Porsche 911",
+      "year": 2022,
+      "people_fitted": 2,
+      "milage": "10.4 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 56,
+      "carname": "Volvo XC90",
+      "year": 2023,
+      "people_fitted": 7,
+      "milage": "29.0 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 57,
+      "carname": "Acura MDX",
+      "year": 2022,
+      "people_fitted": 7,
+      "milage": "27.3 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 58,
+      "carname": "Lamborghini Huracan",
+      "year": 2022,
+      "people_fitted": 2,
+      "milage": "8.2 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 59,
+      "carname": "Ferrari 488",
+      "year": 2023,
+      "people_fitted": 2,
+      "milage": "7.8 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    },
+    {
+      "id": 60,
+      "carname": "Maserati Ghibli",
+      "year": 2022,
+      "people_fitted": 5,
+      "milage": "12.1 km/litre",
+      "type": "Automatic",
+      "fuel_type": "Gasoline"
+    }
+  ]
+  
+  

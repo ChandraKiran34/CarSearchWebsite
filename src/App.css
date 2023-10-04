@@ -1,5 +1,13 @@
+
 .App {
-  text-align: center;
+  /* text-align: center; */
+  background-color: #EBEEF4;
+  height: auto;
+  font-size:400;
+  /* margin:20px; */
+  /* margin-top: 2px; */
+  /* border-radius: 25px; */
+ 
 }
 
 .App-logo {
